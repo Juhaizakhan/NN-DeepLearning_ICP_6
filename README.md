@@ -14,4 +14,4 @@ Simply remove the scaling step from the preprocessing and execute the script.
 Diabetes Dataset with Neural Network
 
 The provided script implements a basic neural network for the diabetes dataset.
-# please change the path of the CSV file if necessary.
+# please change the path of the CSV file wherever necessary.
